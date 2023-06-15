@@ -3,23 +3,21 @@
 
 <div align="center">
 
-🌐&nbsp;[Website](http://www.crockattandscott.co.uk/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗&nbsp;[LinkedIn](https://www.linkedin.com/in/jamie-richardson-46897775/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥋&nbsp;[Codewars](https://www.codewars.com/users/jam13richardson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗&nbsp;[LinkedIn](https://www.linkedin.com/in/jamie-richardson-46897775/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥋&nbsp;[Codewars](https://www.codewars.com/users/jam13richardson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
-## <div align="center"> A Full Stack Developer with a drive for bringing people together. I have over 6 years experience in solutions consultancy, fundraising and project management including using FileMaker as part of my job. 
+## <div align="center"> A Full Stack Developer with a passion for developing new ideas and creating innovative solutions that bring about positive change and solve problems in unique and creative ways. I have over 6 years experience in solutions consultancy, fundraising and project management including using FileMaker as part of my job. 
 </div>
 <div align="center">
 
-### [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+### [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Other experience](#other_experience) | [Interests](#interests)
 
 </div>
 
 ## 🔎 **About me**
 
-This might be the only CV you read from a dev who's made a program on React, Ruby and a drag brunch. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is building solutions and processes that make peoples lives better, whether that was as a Development Manager in the LGBTQ+ charity sector or a solutions consultant with SaaS products. 
-
-Chairity sector is broken, I am now applying my creative thinking, problem-solving and obsession with syntax to software development.
+This might be the only CV you read from a dev who's helped wirte a book on app craft by interviewing shepards in the Lake District. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is building creative solutions and processes that make peoples lives easier, whether that was as a Development Manager in the LGBTQ+ charity sector or a solutions consultant with SaaS products. 
 
  I've put 'Full Stack Software Developer' rather grandly at the top there ⬆️ and, sure, I have learned a **huge** amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say though, without any hesitation, that I love coding, learning new skills and working in teams of smart people building machines out of words. 
 
@@ -111,5 +109,5 @@ Chairity sector is broken, I am now applying my creative thinking, problem-solvi
 
 ## Interests
 * 🎙️ **Podcasting:** I co-host a podcast where we interview special guests such as Ciara Madden (GymShark Ambassador), Rob Sheehan (The Umbrella Academy), Alex Lawther (Star Wars). 
-* 🤸‍♀️ **Instructing:** Instructor across all GymBox locations in London, serving naughties throwbacks weekly. 
-* 🏊 **Swimmer:** I swim competitively with Londons largest mixed swim club. You can often find me at Serpentine Swim Club whenever I'm feeling brave. 
+* 🤸‍♀️ **Instructing:** I instruct a variety of exercise classes across all GymBox locations in London, serving naughties throwbacks weekly. 
+* 🏊 **Swimming:** I swim competitively with Londons largest mixed swim club. You can often find me at Serpentine Swim Club whenever I'm feeling brave. 

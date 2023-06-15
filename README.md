@@ -36,16 +36,16 @@ This might be the only CV you read from a dev who's helped write a book on why p
 * Managing the creation and implementation of Switchboards fundraising strategy as their first ever staff member in a development position.
 * As Development Manager, I increased regular giving by 35%, expanded our portfolio of new donors by 200% and ensured a better balance of funding streams.
 * Responsible for the development and expansion of income streams by innovating our engagement with donors, which included;
-- Consulting on large corporate campaigns
-- Introducing regular newsletters containing service user themes from the LGBTQ+ communities that Switchboard serve
-- Establishing a major donor group
-- Hosting building tours for donors after commissioning artwork celebrating Switchboard's history
-- Creating and delivering workshops, covering topics such as LGBTQ+ history, caller themes (mental health, gender identity, hate crimes) and allyship
-- Building fundraising packs for legacy, individual and corporate donors
-- Implementing and maintaining Switchboard’s first CRM (Donorfy); compiling 5 years of legacy data to understand Switchboard’s financial distribution and position.
-- Organising fundraising and engagement events throughout the year.
-- Management of Switchboard's Social Media Team, Admin Volunteers and Community Fundraising Engagement Group.
-- Researching and writing grant applications.
+  - Consulting on large corporate campaigns
+  - Introducing regular newsletters containing service user themes from the LGBTQ+ communities that Switchboard serve
+  - Establishing a major donor group
+  - Hosting building tours for donors after commissioning artwork celebrating Switchboard's history
+  - Creating and delivering workshops, covering topics such as LGBTQ+ history, caller themes (mental health, gender identity, hate crimes) and allyship
+  - Building fundraising packs for legacy, individual and corporate donors
+  - Implementing and maintaining Switchboard’s first CRM (Donorfy); compiling 5 years of legacy data to understand Switchboard’s financial distribution and position.
+  - Organising fundraising and engagement events throughout the year.
+  - Management of Switchboard's Social Media Team, Admin Volunteers and Community Fundraising Engagement Group.
+  - Researching and writing grant applications.
 
 ### <span style="color: #1589FF;">**Litera**</span> (April 2018 - August 2021) <br> 
 *Lead Transaction Advisor and D&I Network Lead*
@@ -57,9 +57,9 @@ This might be the only CV you read from a dev who's helped write a book on why p
 ### <span style="color: #1589FF;">**SmallCo**</span> (September 2016 - March 2018) <br> 
 *Project Manager*
 * Independently led the development of SmallCo SaaS products into the European market, which included:
-- Organising promotional events within the FileMaker community
-- Pitching and securing new partnerships
-- Leading a team of 6 global engineers to complete multiple development projects in North America, Mexico and Europe
+  - Organising promotional events within the FileMaker community
+  - Pitching and securing new partnerships
+  - Leading a team of 6 global engineers to complete multiple development projects in North America, Mexico and Europe
 
 ## 🗄️ Other Experience 
 * Listening Volunteer, Switchboard LGBTQ+ Helpline (2019 - 2021)
@@ -93,9 +93,9 @@ This might be the only CV you read from a dev who's helped write a book on why p
 
 #### **University of Leeds** 
 * BSc International Business 2:1
-- Key Modules: International Law, European Business, Event Management, Innovation and Practice, CSR
-- Extra- Curricular: Treasurer and Captain for Leeds University Swimming and Water Polo, Vice President for Leeds University Halls of Residence.
-- Dissertation title: "SMEs’ internationalisation: When does innovation matter?"
+  - Key Modules: International Law, European Business, Event Management, Innovation and Practice, CSR
+  - Extra- Curricular: Treasurer and Captain for Leeds University Swimming and Water Polo, Vice President for Leeds University Halls of Residence.
+  - Dissertation title: "SMEs’ internationalisation: When does innovation matter?"
 
 #### **University of Alberta**
 - Study Abroad Program in Canada

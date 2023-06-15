@@ -17,7 +17,7 @@
 
 ## 🔎 **About me**
 
-This might be the only CV you read from a dev who's helped wirte a book on app craft by interviewing shepards in the Lake District. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is building creative solutions and processes that make peoples lives easier, whether that was as a Development Manager in the LGBTQ+ charity sector or a solutions consultant with SaaS products. 
+This might be the only CV you read from a dev who's helped write a book on why programming is a craft by interviewing shepards in the Lake District. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is building creative solutions and processes that make peoples lives easier, whether that was as a Development Manager in the LGBTQ+ charity sector or a Solutions Consultant or Project Manager with SaaS products. 
 
  I've put 'Full Stack Software Developer' rather grandly at the top there ⬆️ and, sure, I have learned a **huge** amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say though, without any hesitation, that I love coding, learning new skills and working in teams of smart people building machines out of words. 
 

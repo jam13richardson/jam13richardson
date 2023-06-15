@@ -1,37 +1,115 @@
-### Hi there 👋
 
-<!--
-**jam13richardson/jam13richardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <h1 align="center">Jamie Richardson</h1> -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐&nbsp;[Website](http://www.crockattandscott.co.uk/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗&nbsp;[LinkedIn](https://www.linkedin.com/in/jamie-richardson-46897775/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥋&nbsp;[Codewars](https://www.codewars.com/users/jam13richardson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h1 align="center">Hi 👋, I'm Jamie Richardson</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
+</div>
 
-- 🔭 I’m currently working on **Trans Positive Media Collective**
+## <div align="center"> A Full Stack Developer with a drive for bringing people together. I have over 6 years experience in solutions consultancy, fundraising and project management including using FileMaker as part of my job. 
+</div>
+<div align="center">
 
-- 🌱 I’m currently learning **JavaScript, React, HTML and I have just finished Makers Academy**
+### [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-- 📫 How to reach me **james_e_richardson@me.com**
+</div>
 
-- 📄 Know about my experiences [Here](Here)
+## 🔎 **About me**
 
-- ⚡ Fun fact **I once served Kylie Minogue a coffee. Padam padam**
+This might be the only CV you read from a dev who's made a program on React, Ruby and a drag brunch. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is building solutions and processes that make peoples lives better, whether that was as a Development Manager in the LGBTQ+ charity sector or a solutions consultant with SaaS products. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jam13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jam13" height="30" width="40" /></a>
-</p>
+Chairity sector is broken, I am now applying my creative thinking, problem-solving and obsession with syntax to software development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+ I've put 'Full Stack Software Developer' rather grandly at the top there ⬆️ and, sure, I have learned a **huge** amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say though, without any hesitation, that I love coding, learning new skills and working in teams of smart people building machines out of words. 
+
+## 💻 **Projects**
+| Project | Description | Technologies |
+|---  |---  |---  |
+| [**FoodShare**](https://github.com/maddc0de/foodshare) | Our Makers final project. A web application that connects foodbanks with local restaurents, supermarkets and other businesses who have surplus food that would otherwise go to waste.  | NodeJS, React, HTML, CSS, ExpressJS, MongoDB, Cypress, Jest |
+| [**Acebook**](https://github.com/ManuelaIacobovici/acebook-mern-water-team/tree/main) | During this group project, we were asked to create a Facebook clone. Throughout its course we focused on an Agile working style, using Trello, daily stand-ups and regular retros to guide this MERN project. | NodeJS, React, HTML, CSS, ExpressJS, MongoDB, Cypress, Jest |
+
+----
+
+
+## 🗒️ Work Experience
+### <span style="color: #1589FF;">**Switchboard - National LGBTQ+ Helpline**</span> (September 2021 - March 2023) <br> 
+*Development Manager*
+* Managing the creation and implementation of Switchboards fundraising strategy as their first ever staff member in a development position.
+* As Development Manager, I increased regular giving by 35%, expanded our portfolio of new donors by 200% and ensured a better balance of funding streams.
+* Responsible for the development and expansion of income streams by innovating our engagement with donors, which included;
+- Consulting on large corporate campaigns
+- Introducing regular newsletters containing service user themes from the LGBTQ+ communities that Switchboard serve
+- Establishing a major donor group
+- Hosting building tours for donors after commissioning artwork celebrating Switchboard's history
+- Creating and delivering workshops, covering topics such as LGBTQ+ history, caller themes (mental health, gender identity, hate crimes) and allyship
+- Building fundraising packs for legacy, individual and corporate donors
+- Implementing and maintaining Switchboard’s first CRM (Donorfy); compiling 5 years of legacy data to understand Switchboard’s financial distribution and position.
+- Organising fundraising and engagement events throughout the year.
+- Management of Switchboard's Social Media Team, Admin Volunteers and Community Fundraising Engagement Group.
+- Researching and writing grant applications.
+
+### <span style="color: #1589FF;">**Litera**</span> (April 2018 - August 2021) <br> 
+*Lead Transaction Advisor and D&I Network Lead*
+* Led team of Transaction Advisors who are responsible to the deployment, adoption and growth of our global account base.
+* Implemented creative means to drive adoption, usage and challenging perceptions of technology within the legal industry.
+* Part of a small team that created an entirely new revenue stream for Workshare, a key factor behind Litera’s acquisition of the company in July 2019.
+* Launched a global D&I Network at Litera, creating a Steering Committee of internal stakeholders. The group achieved; revision of the global HR recruitment process to be more inclusive, removal of gendered toilets in all offices, led educational workshops and implemented compulsory awareness training.
+
+### <span style="color: #1589FF;">**SmallCo**</span> (September 2016 - March 2018) <br> 
+*Project Manager*
+* Independently led the development of SmallCo SaaS products into the European market, which included:
+- Organising promotional events within the FileMaker community
+- Pitching and securing new partnerships
+- Leading a team of 6 global engineers to complete multiple development projects in North America, Mexico and Europe
+
+## 🗄️ Other Experience 
+* Listening Volunteer, Switchboard LGBTQ+ Helpline (2019 - 2021)
+* Community Fundraising and Engagement Volunteer, Switchboard LGBTQ+ Helpline (2019 - 2020)
+* Support Volunteer, Four Walls (2018 - 2019)
+* Support Volunteer, OUT Miami (2016)
+* Admin Volunteer, Queers on Campus at University of Alberta (2015)
+* Campaign Assistant, Net Impact (2015)
+
+## ✨ Skills
+* **Creative Thinker** - If the world was ending 
+
+* **Communicator** - 
+
+* **Teamwork** - 
+
+* **Attention To Detail** -
+  
+* **Working To A Brief** - 
+
+## 🎒 Education
+
+#### **Makers Academy** (Nov 2022 - Mar 2023)
+- A 16-week intensive software development course focusing on:
+- Object Oriented Design (Ruby, JavaScript, HTML, React, Node.js)
+- Test Driven Development (RSpec, Jest)
+- Pairing Programming 
+- Agile and Sprint working practices
+- SQL, PostgreSQL, MongoDB
+- Version control Git, GitHub
+
+#### **University of Leeds** 
+* BSc International Business 2:1
+- Key Modules: International Law, European Business, Event Management, Innovation and Practice, CSR
+- Extra- Curricular: Treasurer and Captain for Leeds University Swimming and Water Polo, Vice President for Leeds University Halls of Residence.
+- Dissertation title: "SMEs’ internationalisation: When does innovation matter?"
+
+#### **University of Alberta**
+- Study Abroad Program in Canada
+- Key Modules: Consumer Behaviour, Accounting, HRM, German
+- Extra- Curricular: Team Lead for Enactus, UoA Triathlon, Outdoors Club, UoA Snow Sports
+
+#### **Other qualifications**
+* Level 2 Certificate in Fitness Instructing
+* Indoor Cycling Instructor Qualification
+* Level 2 Kettlebell Qualification
+
+## Interests
+* 🎙️ **Podcasting:** I co-host a podcast where we interview special guests such as Ciara Madden (GymShark Ambassador), Rob Sheehan (The Umbrella Academy), Alex Lawther (Star Wars). 
+* 🤸‍♀️ **Instructing:** Instructor across all GymBox locations in London, serving naughties throwbacks weekly. 
+* 🏊 **Swimmer:** I swim competitively with Londons largest mixed swim club. You can often find me at Serpentine Swim Club whenever I'm feeling brave. 

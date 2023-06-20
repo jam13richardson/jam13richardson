@@ -7,7 +7,9 @@
 
 </div>
 
-## <div align="center"> A Full Stack Developer with a passion for developing new ideas and creating innovative solutions that bring about positive change and solve problems in unique and creative ways. I have over 6 years experience in solutions consultancy, fundraising and project management including using FileMaker as part of my job. 
+## <div align="center"> A Full Stack Developer with a passion for developing new ideas that bring about positive change and solve problems in unique and creative ways. 
+ 
+I have over 6 years experience in solutions consultancy, fundraising and project management including using FileMaker as part of my job. 
 </div>
 <div align="center">
 
@@ -17,7 +19,7 @@
 
 ## 🔎 **About me**
 
-This might be the only CV you read from a dev who's helped write a book on why programming is a craft by interviewing shepards in the Lake District. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is building creative solutions and processes that make peoples lives easier, whether that was as a Development Manager in the LGBTQ+ charity sector or a Solutions Consultant or Project Manager with SaaS products. 
+This might be the only CV you read from a dev who's helped write a book on why programming is considered the modern craft by interviewing shepards in the Lake District. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is building creative solutions and processes that make peoples lives easier, whether that was as a Development Manager in the LGBTQ+ charity sector or a Solutions Consultant or Project Manager with SaaS products. 
 
  I've put 'Full Stack Software Developer' rather grandly at the top there ⬆️ and, sure, I have learned a **huge** amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say though, without any hesitation, that I love coding, learning new skills and working in teams of smart people building machines out of words. 
 
@@ -70,15 +72,17 @@ This might be the only CV you read from a dev who's helped write a book on why p
 * Campaign Assistant, Net Impact (2015)
 
 ## ✨ Skills
-* **Creative Thinker** - If the world was ending 
+* **Creative Thinker** - If the world was ending you'd come over, right? It's a well-worn phrase, and it went through my head while discussing the end of the world with my freinds one evening. We tend to romanticise the end of the world and all the things we'd do in our final moments, maybe we'd tick off our bucket list, watch the sun set or read our favourite book. In reality, there might be no time to prepare - instead, it's all about what and who is around you. Jump to 6 months later, and we won a competition with Acast with this idea with it being shared on Spotify, Apple podcast. etween that first thought and the recording, however, there has been a lot of creative heavy-lifting - fleshing out the format, writing up and designing a pitch deck, making changes after feedback. Keeping you mind open to ideas is one thing but getting down to the nitty-gritty creative work of writing and rewriting is something I'm very comfortable with.
 
-* **Communicator** - 
+* **Communicator** -  As a Project Manager at SmallCo, I led a team of developers in multiple timezones to deliver bespoke SaaS products to our clients, which I'd also have to sell, or pitch to face-to-face. With this experience I feel confident in saying that not only do I have good written and verbal skills I also know how to read the room and articulate often complex ideas in a persuasive manner.
 
 * **Teamwork** - 
 
-* **Attention To Detail** -
+* **Attention To Detail** - Part of my role as Lead Transaction Advisor at Litera was problem solving, being able to look at a lawyers complex workflow analytically and figure out how what value could be gained with our product. I would spend a lot of time in the discovery process to understand their pain points and workflow which would vary massively depending on firm, practice, jurisdiction. I built a habit of meticulousness and attention to detail working in legal tech was very insightful as a typically tech averse industry; misuse of langauge and you lose the lawyer confidence in you, ineffectively detailing the benefits of the product and they wouldnt dvote the time to learn it. 
   
-* **Working To A Brief** - 
+* **Working To A Brief** - As the first full-time Development Manager at Switchboard, I was responsible for the creation and implementation of the charity’s fundraising strategy. My breif was clear, I had to generate an annual income of £250K across multiple income streams in my first year. I was able to raise over £1mn while at Switchboard, whether that was through grants, individual giving or corporate partnerships. 
+
+It's often the case I'll turn up in the morning to work on a new show, be given a brief by the producer and be expected to hand over many pages of material by the end of the day. It's high-pressure stuff. Briefs for shows, however, can range from very detailed outlines to vague, hand-wavy thoughts, and for each case, in order to deliver work that's on target, I am very experienced at asking the right questions, taking the temperature, and getting a feel for what a client really wants.
 
 ## 🎒 Education
 

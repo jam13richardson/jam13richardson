@@ -8,8 +8,7 @@
 </div>
 
 ## <div align="center"> A Full Stack Developer with a passion for developing new ideas that bring about positive change and solve problems in unique and creative ways. 
- 
-I have over 6 years experience in solutions consultancy, fundraising and project management including using FileMaker as part of my job. 
+ I have over 6 years experience in solutions consultancy, fundraising and project management including using FileMaker as part of my job. 
 </div>
 <div align="center">
 
@@ -113,5 +112,5 @@ It's often the case I'll turn up in the morning to work on a new show, be given 
 
 ## Interests
 * 🎙️ **Podcasting:** I co-host a podcast where we interview special guests such as Ciara Madden (GymShark Ambassador), Rob Sheehan (The Umbrella Academy), Alex Lawther (Star Wars). 
-* 🤸‍♀️ **Instructing:** I instruct a variety of exercise classes across all GymBox locations in London, serving naughties throwbacks weekly. 
+* 🤸‍♀️ **Instructing:** I instruct a variety of exercise classes across all GymBox locations in London.
 * 🏊 **Swimming:** I swim competitively with Londons largest mixed swim club. You can often find me at Serpentine Swim Club whenever I'm feeling brave. 
